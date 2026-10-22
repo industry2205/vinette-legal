@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-*Last updated: October 9, 2026*
+*Last updated: October 22, 2026*
 
 [한국어](../ko/privacy-policy.html)
 
@@ -35,13 +35,17 @@ The first time you start a video, a purchase or a link that leaves the App, the 
 
 If you turn on new kit alerts, the App schedules local notifications on your device for the moment a new kit comes out. No push server is involved.
 
+## New kits
+
+New sticker kits reach the App from Apple's iCloud servers (CloudKit), whether or not you are signed in to iCloud. Like any download, Apple receives your IP address to send the files; the App sends no account, identifier or diary content, and the files are stickers and their descriptions only. Apple handles this under its privacy policy.
+
 ## App lock
 
 If you turn on App lock, iOS checks your Face ID, Touch ID or passcode. The App only learns whether the check succeeded; it never receives your biometric data.
 
 ## Services we work with
 
-Only two outside services receive data from the App: RevenueCat, for subscription status, and Google AdMob, for the videos. Each receives only what is described above. We work only with services that protect your data to the same or an equal standard as this policy, and each handles it under its own privacy policy, linked above. Apple processes payments and stores your iCloud backups under Apple's privacy policy. If you write to us from Settings › Help & about, we receive your email address, your message and the app version, iOS version and device model the App fills in, and use them only to answer you.
+Only two outside services receive data from the App: RevenueCat, for subscription status, and Google AdMob, for the videos. Each receives only what is described above. We work only with services that protect your data to the same or an equal standard as this policy, and each handles it under its own privacy policy, linked above. Apple processes payments, stores your iCloud backups and delivers new kits under Apple's privacy policy. If you write to us from Settings › Help & about, we receive your email address, your message and the app version, iOS version and device model the App fills in, and use them only to answer you.
 
 ## What we do not do
 
